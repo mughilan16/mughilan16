@@ -1,3 +1,4 @@
-Hi, I'm Mughilan.
-BCA Student
-Learning Web development 
+Hi, I'm Mughilan.<br>
+Studying BCA in Crescent University<br>
+Currently learning Web development
+
