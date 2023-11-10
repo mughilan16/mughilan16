@@ -30,3 +30,7 @@ Currently learning Backend Web development in Golang.
 <p align="center">
    <img src="https://github-contributor-stats.vercel.app/api?username=mughilan16&limit=8&theme=dark&combine_all_yearly_contributions=true&layout=compact" alt="Github Stats" width="300">
 </p>
+<hr>
+<p align="center">
+   <a href="https://twitter.com/mughilan_t"><img src="https://help.twitter.com/content/dam/help-twitter/brand/logo.png"></a>
+</p>
