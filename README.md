@@ -35,7 +35,7 @@ Currently learning Backend Web development in Golang.
    <img src="https://github-contributor-stats.vercel.app/api?username=mughilan16&limit=8&theme=dark&combine_all_yearly_contributions=true&layout=compact" alt="Github Stats" width="300">
 </p>
 <hr>
-<p align="center">
+<p align="center" style="display:flex;gap:5;">
    <a href="https://twitter.com/mughilan_t"><img src="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/ba0f2cbb8690addd525c73d340cc8e46044ee604/icons/twitter/twitter-rounded-square.svg" height="30" style="vertical-align:top;"></a>
    <a href="https://www.linkedin.com/in/mughilan-t-209766267/"><img src="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/master/icons/linkedin/linkedin.svg" height="30" style="vertical-align:top;"></a>
 </p>
