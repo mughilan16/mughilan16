@@ -1,6 +1,6 @@
 ![Header](./github-header-image.png)
 
-# Hi, I'm Mughilan.
+<h1 style="color:white">Hi, I'm Mughilan.</h1>
 I'm a BCA Data Science student in Crescent University<br>
 Started with frontend developement in react.
 Currently learning Backend Web development in Golang.
