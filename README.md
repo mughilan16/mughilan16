@@ -27,12 +27,12 @@ Currently learning Backend Web development in Golang.
 
 ## 📈 Github Stats 
 <p align="center">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mughilan16&theme=dark&hide_border=false&include_all_commits=true&count_private=true&langs_count=8&layout=compact" alt="Github Stats" width="300">
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mughilan16&theme=dark&hide_border=false&include_all_commits=true&count_private=true&langs_count=8&layout=compact" alt="Github Stats" width="400">
 </p>
 
 ### Top Contibuted Repo
 <p align="center">
-   <img src="https://github-contributor-stats.vercel.app/api?username=mughilan16&limit=8&theme=dark&combine_all_yearly_contributions=true&layout=compact" alt="Github Stats" width="300">
+   <img src="https://github-contributor-stats.vercel.app/api?username=mughilan16&limit=8&theme=dark&combine_all_yearly_contributions=true&layout=compact" alt="Github Stats" width="400">
 </p>
 <hr>
 <p align="center" style="display:flex;gap:5;">
