@@ -20,7 +20,9 @@ Currently learning Backend Web development in Golang.
 </p>
 
 # Github Stats
+<div align="center>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mughilan16&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Github Stats">
+</div>
 
 ### Top Contibuted Repo
 ![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=mughilan16&limit=5&theme=dark&combine_all_yearly_contributions=true)
