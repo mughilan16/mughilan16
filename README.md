@@ -25,9 +25,7 @@ Currently learning Backend Web development in Golang.
 </p>
 
 ### Top Contibuted Repo
-![Top Contributed Repo]("https://github-contributor-stats.vercel.app/api?username=mughilan16&limit=5&theme=dark&combine_all_yearly_contributions=true&layout=compact")
-
 
 <p align="center">
-   <img src="https://github-contributor-stats.vercel.app/api?username=mughilan16&limit=5&theme=dark&combine_all_yearly_contributions=true&layout=compact" alt="Github Stats" height="300">
+   <img src="https://github-contributor-stats.vercel.app/api?username=mughilan16&limit=8&theme=dark&combine_all_yearly_contributions=true&layout=compact" alt="Github Stats" height="300">
 </p>
