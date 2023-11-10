@@ -18,6 +18,7 @@ Currently learning Backend Web development in Golang.
 <img src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.3c5441fc7a190fb1800d4a5c7f07ba4b1345a9c8.svg" alt="Tailwindcss" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="Tailwindcss" height="40" style="vertical-align:top; margin:4px">
 </p>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mughilan16&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## Top Contibuted Repo
 ![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=mughilan16&limit=5&theme=dark&combine_all_yearly_contributions=true)
