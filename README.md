@@ -1,3 +1,5 @@
+![Header](./github-header-image.png)
+
 # Hi, I'm Mughilan.
 I'm a BCA Data Science student in Crescent University<br>
 Started with frontend developement in react.
