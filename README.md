@@ -19,5 +19,4 @@ Currently learning Backend Web development in Golang.
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="Tailwindcss" height="40" style="vertical-align:top; margin:4px">
 </p>
 
-## Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=mughilan16&limit=5&theme=dark)
+![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=mageshyt&limit=5&theme=dark&combine_all_yearly_contributions=true)
