@@ -20,4 +20,4 @@ Currently learning Backend Web development in Golang.
 </p>
 
 ## Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=mughilan16&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=mughilan16&limit=5&theme=dark&combine_all_monthly_contributions=true)
