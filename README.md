@@ -32,5 +32,5 @@ Currently learning Backend Web development in Golang.
 </p>
 <hr>
 <p align="center">
-   <a href="https://twitter.com/mughilan_t"><img src="https://help.twitter.com/content/dam/help-twitter/brand/logo.png"></a>
+   <a href="https://twitter.com/mughilan_t"><img src="https://help.twitter.com/content/dam/help-twitter/brand/logo.png" height="40"></a>
 </p>
