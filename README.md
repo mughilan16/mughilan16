@@ -36,6 +36,6 @@ Currently learning Backend Web development in Golang.
 </p>
 <hr>
 <p align="center">
-   <a href="https://twitter.com/mughilan_t"><img src="https://help.twitter.com/content/dam/help-twitter/brand/logo.png" height="40" style="vertical-align:bottom;"></a>
-   <a href="https://www.linkedin.com/in/mughilan-t-209766267/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/800px-LinkedIn_icon_circle.svg.png" height="30" style="vertical-align:top;"></a>
+   <a href="https://twitter.com/mughilan_t"><img src="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/ba0f2cbb8690addd525c73d340cc8e46044ee604/icons/twitter/twitter-rounded-square.svg" height="40" style="vertical-align:bottom;"></a>
+   <a href="https://www.linkedin.com/in/mughilan-t-209766267/"><img src="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/master/icons/linkedin/linkedin.svg" height="30" style="vertical-align:top;"></a>
 </p>
