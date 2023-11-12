@@ -1,4 +1,4 @@
-![Header](./github-header-image.png)
+![Header]("https://raw.githubusercontent.com/mughilan16/mughilan16/main/Artist%20Creates%20The%20Best%20Japanese%20Pixel%20Art%20GIFs%20on%20Earth.gif")
 
 <h1 style="color:white">Hi, I'm Mughilan.</h1>
 I'm a BCA data science student in Crescent University<br>
