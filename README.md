@@ -1,4 +1,4 @@
-![Header]("./Artist Creates The Best Japanese Pixel Art GIFs on Earth.gif")
+![Header](./Artist Creates The Best Japanese Pixel Art GIFs on Earth.gif)
 
 <h1 style="color:white">Hi, I'm Mughilan.</h1>
 I'm a BCA data science student in Crescent University<br>
