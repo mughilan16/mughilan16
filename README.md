@@ -1,4 +1,4 @@
-![Header](./header.gif)
+![Header](./github-image-header.png)
 
 <h1 style="color:white">Hi, I'm Mughilan.</h1>
 I'm a BCA data science student in Crescent University<br>
